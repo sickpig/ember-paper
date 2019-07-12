@@ -81,7 +81,7 @@
     "propagating-hammerjs": "^1.4.6",
     "resolve": "^1.5.0",
     "tinycolor2": "^1.4.1",
-    "virtual-each": "~0.6.0"
+    "virtual-each": "git+https://github.com/sickpig/virtual-each.git#master"
   },
   "keywords": [
     "ember-addon",
